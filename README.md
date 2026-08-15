@@ -1,4 +1,4 @@
-# git-practice
+# git-practice Repository
 Educational purpose
 my name is Heriqnaz 
 My Skills
