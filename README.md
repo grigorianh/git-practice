@@ -6,4 +6,4 @@ My Skills
 - Jira, Postman
 - SQL
 - Test Case Design
-API
+ API
